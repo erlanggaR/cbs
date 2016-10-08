@@ -1,4 +1,4 @@
 Nama	: Erlangga Riyyan Nugraha
-NPM	: 140810160018
 TTL	: Bandung, 4 Januari 1999
 JK	: Laki-laki
+NPM	: 140810160018
