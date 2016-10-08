@@ -1,2 +1,5 @@
 Nama	: Erlangga Riyyan Nugraha
 NPM	: 140810160018
+
+Nama	: Faizin
+NPM	: 140810160032
